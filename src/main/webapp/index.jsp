@@ -8,7 +8,7 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Welcome to E-bank</title>
+		<title>E-bank</title>
 	</head> 
 	<body>
 		<c:url value="/showMessage.html" var="messageUrl" />
